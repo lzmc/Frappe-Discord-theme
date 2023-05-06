@@ -1,7 +1,7 @@
 # Frappe-Discord-theme
 Catppuccin frappe color pallete for refact0r's midnight discord theme
 
-
+![](https://github.com/lzmc/Frappe-Discord-theme/blob/main/sample.png?raw=true)
 ```css
 
 /* ==UserStyle==

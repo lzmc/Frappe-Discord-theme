@@ -37,8 +37,5 @@ Catppuccin frappe color pallete for refact0r's midnight discord theme
   --roundness: 16px;
   --mention-color: #babbf1;
 }
-    .timestamp-p1Df1m {
-        display: none;
-    }
 }
 ```

@@ -1,11 +1,11 @@
 
-/* ==UserStyle==
+/**
 @name           Catppuccin | Frappe
 @namespace      github.com/openstyles/stylus
 @version        0.9.2
 @description    Catppuccin frappe using refactor's midnight discord theme
 @author         lzmc
-==/UserStyle== */
+*/
 @-moz-document domain("discord.com") {
 
 @import url(https://refact0r.github.io/midnight-discord/midnight.css);

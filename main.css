@@ -6,7 +6,6 @@
 @description    Catppuccin frappe using refactor's midnight discord theme
 @author         lzmc
 */
-@-moz-document domain("discord.com") {
 
 @import url(https://refact0r.github.io/midnight-discord/midnight.css);
 :root {
@@ -32,4 +31,4 @@
   --roundness: 16px;
   --mention-color: #babbf1;
 }
-}
+
